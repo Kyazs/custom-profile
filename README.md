@@ -63,7 +63,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center"> 
-    <img alt="profile" src="https://github.com/Kyazs/custom-profile/blob/main/assets/profile.png" width="50px">
+    <img alt="profile" src="https://github.com/Kyazs/custom-profile/blob/main/assets/profile.png" width="100px">
 </p>
 <p align="center">
     <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
