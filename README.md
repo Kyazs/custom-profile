@@ -61,7 +61,7 @@
     <a href="https://github.com/kyazs">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyazs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyazs&layout=compact&langs_count=8&theme=algolia"/>
-        <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
+        <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kyazs&&theme=jolly&show_icons=true" alt="milaan9"/>
     </a>
 </p>
 
