@@ -17,14 +17,14 @@
 </p>
 
 
-<p align="center"> 
+<div> 
     <h4 align="center"> 
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a>Hi, I'm Casper (Kyazs), a passionate developer with hands-on experience in modern technologies. I enjoy building innovative and efficient solutions using the latest tools and frameworks. Whether it's web development, UI design, or system logic, I love turning ideas into functional and meaningful digital experiences.<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
     </h4> 
     <p align="right">
-        <img src="https://readme-jokes.vercel.app/api" alt="kyazs joke" width="100%"/>
+        <img src="https://readme-jokes.vercel.app/api" alt="kyazs joke"/>
     </p>
-</p>
+</div>
 
 <p align="center"> 
     <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
