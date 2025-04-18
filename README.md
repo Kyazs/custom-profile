@@ -61,7 +61,7 @@
     <a href="https://github.com/kyazs">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyazs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyazs&layout=compact&langs_count=8&theme=algolia"/>
-        <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kyazs&&theme=jolly&show_icons=true" alt="milaan9"/>
+        <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kyazs&&theme=algolia&show_icons=true&layout=compact" alt="kyazs"/>
     </a>
 </p>
 
@@ -71,5 +71,7 @@
     <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-jcasper_santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
     <a href="https://kyazs.github.io/Kyazs-Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/kyazs-portfolio-%23.svg?colorB=orange&style=flat&&logo=gnometerminal&logoColor=white"></a>
-    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=discord&logoColor=5865F2"></a>
+    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=discord&logoColor=5865F2"></a>
+    <a href="https://www.instagram.com/_kyazs/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-@_kyazs-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+    <a href="mailto:santosjohncasper@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/-santosjohncasper@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
