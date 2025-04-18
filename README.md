@@ -9,7 +9,7 @@
 </p>
 
 <p dir="auto">
-    <img align="middle" src="https://github.com/Kyazs/custom-profile/blob/main/assets/kyazs-dev-landscape.png" style="max-width: 100%;">
+    <img align="middle" src="https://github.com/Kyazs/kyazs/blob/main/assets/kyazs-dev-landscape.png" style="max-width: 100%;">
 </p>
 
 
@@ -63,7 +63,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <p align="center"> 
-    <img alt="profile" src="https://github.com/Kyazs/custom-profile/blob/main/assets/profile.png" width="100px">
+    <img alt="profile" src="https://github.com/Kyazs/kyazs/blob/main/assets/profile.png" width="100px">
 </p>
 <p align="center">
     <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
