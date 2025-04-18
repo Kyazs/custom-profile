@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>WELCOME TO MY GITHUB PROFILE</h1>
+<h1 align="center">WELCOME TO MY GITHUB PROFILE</h1>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=kyazs" alt="kyazs visit stats"/>       
@@ -57,13 +57,13 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/kyazs">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyazs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyazs&layout=compact&langs_count=8&theme=algolia"/>
-        <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=kyazs&&theme=algolia&show_icons=true&layout=compact" alt="kyazs"/>
+        <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=kyazs&&theme=algolia&show_icons=true&layout=compact" alt="kyazs"/>
     </a>
-</p>
+</div>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
