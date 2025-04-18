@@ -26,14 +26,6 @@
     </p>
 </div>
 
-<p align="center"> 
-    <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-jcasper_santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://kyazs.github.io/Kyazs-Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/kyazs-portfolio-%23.svg?colorB=orange&style=flat&&logo=gnometerminal&logoColor=white"></a>
-    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=discord&logoColor=5865F2"></a>
-
-</p> 
-
 ##### About me  
 💡 &nbsp;I enjoy exploring new technologies and building software solutions.\
 🎓 &nbsp;I'm currently studying <img src="https://img.shields.io/badge/Compuer Science-red"> at Western Mindanao State University.\
@@ -65,74 +57,18 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<details>
-<summary><samp>&#9776;</samp> Click for List of Publications <i>(click to expand) 🔗 </i> </summary>
-<br>  
-    
-📜Journal Articles
-     
-|No|   Title   |    DOI    |  Journal  |
-|--|-----------|-----------|-----------|
-|01| [*An Improved Integrated Clustering Learning Strategy Based on Three-Stage Affinity Propagation Algorithm with Density Peak Optimization Theory (2021)*](https://doi.org/10.1155/2021/6666619) |   <a href="https://doi.org/10.1155/2021/6666619" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2021/6666619-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Complexity](https://www.hindawi.com/journals/complexity)** |
-|02| [*Stock price forecasting based on LLE-BP neural network model (2020)*](https://doi.org/10.1016/j.physa.2020.124197) |   <a href="https://doi.org/10.1016/j.physa.2020.124197" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.physa.2020.124197-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)** |    
-|03| [*REDPC: A residual error-based density peak clustering algorithm (2019)*](https://doi.org/10.1016/j.neucom.2018.06.087) |   <a href="https://doi.org/10.1016/j.neucom.2018.06.087" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.neucom.2018.06.087-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)** |     
-|04| [*A Novel Density Peaks Clustering Halo Node Assignment Method based on K-Nearest Neighbor Theory (2019)*](https://doi.org/10.1109/access.2019.2957242) |   <a href="https://doi.org/10.1109/access.2019.2957242" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/access.2019.2957242-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[IEEE Access](https://ieeeaccess.ieee.org/)** |
-|05| [*FREDPC: A Feasible Residual Error-Based Density Peak Clustering Algorithm With the Fragment Merging Strategy (2019)*](https://doi.org/10.1109/access.2019.2926579) |   <a href="https://doi.org/10.1109/access.2019.2926579" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/access.2019.2926579-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[IEEE Access](https://ieeeaccess.ieee.org/)** |
-|06| [*Empirical likelihood based inference for generalized additive partial linear models (2018)*](https://doi.org/10.1016/j.amc.2018.06.050) |   <a href="https://doi.org/10.1016/j.amc.2018.06.050" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.amc.2018.06.050-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Applied Mathematics and Computation](https://www.sciencedirect.com/journal/applied-mathematics-and-computation)** |    
-|07| [*GDPC: Gravitation-based Density Peaks Clustering algorithm (2018)*](https://doi.org/10.1016/j.physa.2018.02.084) |   <a href="https://doi.org/10.1016/j.physa.2018.02.084" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.physa.2018.02.084-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Physica A: Statistical Mechanics and its Applications](https://www.sciencedirect.com/journal/physica-a-statistical-mechanics-and-its-applications)** |     
-|08| [*Pocket-switch-network based services optimization in crowdsourced delivery systems (2017)*](https://doi.org/10.1016/j.compeleceng.2017.05.034) |   <a href="https://doi.org/10.1016/j.compeleceng.2017.05.034" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1016/j.compeleceng.2017.05.034-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Computers & Electrical Engineering](https://www.sciencedirect.com/journal/computers-and-electrical-engineering)** |     
-|09| [*Application of Modified OPTICS Algorithm in E-Commerce Sites Classification and Evaluation (2017)*](https://doi.org/10.4018/jeco.2016010106) |   <a href="https://doi.org/10.4018/jeco.2016010106" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.4018/jeco.2016010106-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Journal of Electronic Commerce in Organizations](https://www.igi-global.com/gateway/journal/1076)** | 
-|10| [*FP-ABC: Fast and Parallel ABC Based Energy-Efficiency Live VM Allocation Policy in Data Centers (2016)*](https://doi.org/10.1155/2016/9524379) |   <a href="https://doi.org/10.1155/2016/9524379" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1155/2016/9524379-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Scientific Programming](https://www.hindawi.com/journals/sp/)** |    
-   
-    
-<br>  
-    
-📃 Conference Proceedings
-|No|  Title  |  DOI  | Conference |
-|--|---------|-------|------------|
-|01| [*A novel density peak clustering algorithm based on squared residual error (2017)*](https://doi.org/10.1109/spac.2017.8304248) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.1109/spac.2017.8304248-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[2017 International Conference on Security, Pattern Analysis, and Cybernetics (SPAC)](https://ieeexplore.ieee.org/xpl/conhome/8300290/proceeding)** |
-|02| [*A Prediction of Financial Distress for Listed Companies of the New tertiary board Based on Factor Analysis and Logistic Regression (2016)*](https://doi.org/10.2991/icemse-16.2016.6) |   <a href="https://doi.org/10.1109/spac.2017.8304248" target="_blank"><img alt="DOI" width ='700px' src="https://img.shields.io/badge/DOI:-10.2991/icemse&#8722;16.2016.6-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Proceedings of the 2016 International Conference on Education, Management Science and Economics](https://www.atlantis-press.com/proceedings/icemse-16/articles)** |
-
-<br>     
-    
-📖 Book Chapter
-|No|  Title  |  DOI  | Book Chapter |
-|--|---------|-------|--------------|
-|01| [*Parameters Estimation of Regression Model Based on the Improved AFSA (2017)*](https://doi.org/10.1007/978-3-319-49568-2_3) |   <a href="https://doi.org/10.1007/978-3-319-49568-2_3" target="_blank"><img alt="DOI" width ='600px' src="https://img.shields.io/badge/DOI:-10.1007/978&#8722;3&#8722;319&#8722;49568&#8722;2&#95;3-0099ff?style=fflat-square&labelColor=FFD43B"></a> | **[Recent Developments in Intelligent Systems and Interactive Applications](https://www.springer.com/gp/book/9783319495675)** |    
-    
-    
-    
-</details>
-
-<details>
-<summary><samp>&#9776;</samp> Click for GitHub Stats <i>(click to expand)</i> </summary>
 <p align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=milaan9&theme=jolly&show_icons=true" alt="Milaan's Github readme stats">
-    <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=milaan9&&theme=jolly&show_icons=true" alt="milaan9"/>
-</p>
-</details>
-
-
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3> 
-<p align="center">
-    <a href="https://www.linkedin.com/in/milaanparmar" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://www.instagram.com/milaanparmar9" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
-    <a href="https://www.facebook.com/milaanparmar" target="_blank"><img alt="Facebook" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a>
-    <a href="mailto:milaanparmar9@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-</p>  
-    
-<p align="center">
-    <a href="https://github.com/milaan9/milaan9/actions"><img alt="Build README" src="https://github.com/milaan9/milaan9/workflows/Build%20README/badge.svg"></a>
-    <a href="https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master?urlpath=lab" target="_blank"><img alt="Python" src="https://mybinder.org/badge_logo.svg"></a>
-<!--https://mybinder.org/v2/gh/jupyterlab/jupyterlab-demo/master-->
+    <a href="https://github.com/kyazs">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kyazs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kyazs&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
 </p>
 
-<!--
-[![DOI](https://zenodo.org/badge/200104059.svg)](https://zenodo.org/badge/latestdoi/200104059)
-- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
-![Sudhanshu Prajapati's github stats](https://github-readme-stats.vercel.app/api?username=sudhanshu456&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu456&layout=compact)](https://github.com/sudhanshu456)
-- 💻Checkout my [portfolio](https://sudhanshu456.github.io/)
--->
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+    <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-jcasper_santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+    <a href="https://kyazs.github.io/Kyazs-Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/kyazs-portfolio-%23.svg?colorB=orange&style=flat&&logo=gnometerminal&logoColor=white"></a>
+    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=discord&logoColor=5865F2"></a>
+</p>
