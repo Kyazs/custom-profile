@@ -17,13 +17,13 @@
 </p>
 
 
-<div style="display: grid; grid-template-columns: 60% 40%; align-items: center;">
-    <h4 style="text-align: left;"> 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">Hi, I'm Casper (Kyazs), a passionate developer with hands-on experience in modern technologies. I enjoy building innovative and efficient solutions using the latest tools and frameworks. Whether it's web development, UI design, or system logic, I love turning ideas into functional and meaningful digital experiences.
+<div> 
+    <h4 align="center"> 
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"></a>Hi, I'm Casper (Kyazs), a passionate developer with hands-on experience in modern technologies. I enjoy building innovative and efficient solutions using the latest tools and frameworks. Whether it's web development, UI design, or system logic, I love turning ideas into functional and meaningful digital experiences.<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/>
     </h4> 
-    <div style="text-align: right;">
-        <img src="https://readme-jokes.vercel.app/api" alt="kyazs joke" style="max-width: 100%;"/>
-    </div>
+    <p align="right">
+        <img src="https://readme-jokes.vercel.app/api" alt="kyazs joke" width="100%"/>
+    </p>
 </div>
 
 <p align="center"> 
