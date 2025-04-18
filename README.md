@@ -10,11 +10,13 @@
     <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
     <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
     <!-- <img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/> -->
-    <img src="https://readme-jokes.vercel.app/api" alt="milaan9"/>
 </p>
 
 <p dir="auto">
     <img align="middle" src="https://github.com/Kyazs/custom-profile/blob/main/assets/kyazs-dev-landscape.png" style="max-width: 100%;">
+</p>
+<p align="center">
+    <img src="https://readme-jokes.vercel.app/api" alt="kyazs joke"/>
 </p>
 
 
