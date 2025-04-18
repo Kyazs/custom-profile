@@ -27,8 +27,8 @@
 <p align="center"> 
     <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-jcasper_santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-    <a href="https://kyazs.github.io/Kyazs-Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/kyazs-portfolio-%23.svg?colorB=orange&style=flat&&logo=gnometerminal&logoColor=#241F31"></a>
-    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/kyazs-181717-portfolio-%23.svg?colorB=5865F2&style=flat&&logo=discord&logoColor=#5865F2"></a>
+    <a href="https://kyazs.github.io/Kyazs-Portfolio/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/kyazs-portfolio-%23.svg?colorB=orange&style=flat&&logo=gnometerminal&logoColor=241F31"></a>
+    <a href="https://discord.gg/VrQUNQc4" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/kyazs-181717-portfolio-%23.svg?colorB=5865F2&style=flat&&logo=Discord&logoColor=5865F2"></a>
 
 </p> 
 
