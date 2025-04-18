@@ -5,11 +5,7 @@
     <a href="https://github.com/kyazs?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/kyazs" alt="Repos"/></a> 
     <img src="https://badges.pufler.dev/years/kyazs" alt="Active_Years"/>  
     <a href="https://github.com/milaan9/kyazs" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/kyazs" alt="commits"/> 
-    <!-- <a href="https://github.com/milaan9/milaan9/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/milaan9" /></a> -->
-    <!-- <a href="https://github.com/milaan9?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/milaan9?color=4C1&logo=github"></a> -->
     <a href="https://github.com/milaan9/milaan9" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/milaan9/milaan9?label=Profile%20update&style=fflat-square"></a>
-    <!--<a href="https://github.com/milaan9" target="_blank"><img alt="milaan9" src="https://badges.pufler.dev/visits/milaan9/milaan9?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>-->
-    <!-- <img src="https://badges.pufler.dev/gists/milaan9" alt="milaan9"/> -->
 </p>
 
 <p dir="auto">
@@ -66,7 +62,9 @@
 </div>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
+<p align="center"> 
+    <img alt="profile" src="https://github.com/Kyazs/custom-profile/blob/main/assets/profile.png" width="50px">
+</p>
 <p align="center">
     <a href="https://github.com/kyazs" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@kyazs-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/jcasper-santos" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-jcasper_santos-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
