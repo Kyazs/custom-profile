@@ -26,7 +26,7 @@
     </p>
 </div>
 
-##### About me  
+##### 👩‍💻 &nbsp;About me  
 💡 &nbsp;I enjoy exploring new technologies and building software solutions.\
 🎓 &nbsp;I'm currently studying <img src="https://img.shields.io/badge/Compuer Science-red"> at Western Mindanao State University.\
 🌱 &nbsp;I’m diving deeper into <img src="https://img.shields.io/badge/Artificial Intelligence-blue"> and <img src="https://img.shields.io/badge/Software Development-gray">.\
